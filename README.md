@@ -54,15 +54,25 @@ Notre Dame, IN (August 2017 - May 2019)
 
 ## Selected Honors and Awards
 2021: Finalist, American Institute of Chemical Engineers (AIChE) Computing and Systems Technology Division (CAST) Directors’ Student Presentation Awards
+
 2021: Best Poster Award, Notre Dame Chemical and Biomolecular Engineering Graduate Student Organization (CBEGSO) Research Symposium
+
 2020: Notre Dame Chemical and Biomolecular Engineering Exemplary Candidacy Award 
+
 2020: Notre Dame Learning Outstanding Graduate Student Teacher Award 
+
 2020: American Control Conference Travel Award 
+
 2020: The Patrick and Jana Eiler’s Graduate Student Fellowship for Energy Related Research
 
 ## Leadership and outreach
 2021: Tutor, Robinson Community Learning Center 
+
 2020: Session Chair, Decision-making for Industrial Process Systems, AIChE Spring Meeting 
+
 2019: Chair, Academic Affairs Committee, Notre Dame Graduate Student Government 
+
 2018: President, Research Symposium Committe, CBEGSO 
+
 2017: Secretary, Research Symposium Committe, CBEGSO
+
