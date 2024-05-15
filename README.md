@@ -38,10 +38,41 @@ fellowship grant.
 ## Professional Experience
 ### Senior Process Engineer 
 #### Simon India Limited 
-New Delhi, India (Sep 2012 - May 2017)
+New Delhi, India (September 2012 - May 2017)
 * Designed (detailed engineering), supervised construction, and commissioned a 2000 metric ton per day sulphuric acid plant with heat recovery system, the first of its kind, at Paradeep Phosphates Ltd., Odisha, India.
 * Increased project revenue by 17% by compiling technical documentation for change-order negotiations.
 * Negotiated technical issues with client and licensor and served as the junior technical liaison for the caprolactam distillation project at Gujarat State Fertilizer Corporation, Gujarat, India.
 * Demonstrated technical mastery and attention to detail as a part of several teams responsible for hazard and operability (HAZOP) studies of the plant as well as factory and site acceptance tests of critical plant subsystems.
 
-* 
+## Teaching Experience
+### Teaching Assitant
+#### Dept. of Chemical and Biomolecular Engineering, University of Notre Dame 
+Notre Dame, IN (August 2017 - May 2019)
+* Nurtured the academic curiosity of the students while firmly rooting fundamental principles by running tutorial sessions and office hours to elucidate concepts from lectures.
+* Developed tutorials to train undergraduate students in the use of software and programming languages.
+* Courses: Numerical and Statistical Analysis (Spring 2018, Spring 2019), Thermodynamics II (Fall 2018), Senior Chemical Engineering Laboratory (Fall 2017).
+
+## Selected Honors and Awards
+2021: Finalist, American Institute of Chemical Engineers (AIChE) Computing and Systems Technology Division (CAST) Directors’ Student Presentation Awards
+
+2021: Best Poster Award, Notre Dame Chemical and Biomolecular Engineering Graduate Student Organization (CBEGSO) Research Symposium
+
+2020: Notre Dame Chemical and Biomolecular Engineering Exemplary Candidacy Award 
+
+2020: Notre Dame Learning Outstanding Graduate Student Teacher Award 
+
+2020: American Control Conference Travel Award 
+
+2020: The Patrick and Jana Eiler’s Graduate Student Fellowship for Energy Related Research
+
+## Leadership and outreach
+2021: Tutor, Robinson Community Learning Center 
+
+2020: Session Chair, Decision-making for Industrial Process Systems, AIChE Spring Meeting 
+
+2019: Chair, Academic Affairs Committee, Notre Dame Graduate Student Government 
+
+2018: President, Research Symposium Committe, CBEGSO 
+
+2017: Secretary, Research Symposium Committe, CBEGSO
+
