@@ -1,4 +1,5 @@
 Elvis A. Eugene
+
 Groton, CT | LinkedIn
 
 ## Hightlights
@@ -33,3 +34,14 @@ Notre Dame, IN (July 2017 - May 2022)
 * Proposed integrated vision of data science to revolutionize molecular-to-systems engineering.
 * Directly mentored 1 graduate student and 1 undergraduate researcher resulting in 2 journal articles and 1 successful
 fellowship grant.
+
+## Professional Experience
+### Senior Process Engineer 
+#### Simon India Limited 
+New Delhi, India (Sep 2012 - May 2017)
+* Designed (detailed engineering), supervised construction, and commissioned a 2000 metric ton per day sulphuric acid plant with heat recovery system, the first of its kind, at Paradeep Phosphates Ltd., Odisha, India.
+* Increased project revenue by 17% by compiling technical documentation for change-order negotiations.
+* Negotiated technical issues with client and licensor and served as the junior technical liaison for the caprolactam distillation project at Gujarat State Fertilizer Corporation, Gujarat, India.
+* Demonstrated technical mastery and attention to detail as a part of several teams responsible for hazard and operability (HAZOP) studies of the plant as well as factory and site acceptance tests of critical plant subsystems.
+
+* 
