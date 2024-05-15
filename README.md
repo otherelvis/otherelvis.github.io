@@ -3,7 +3,7 @@
 
 # Elvis Abraham Eugene
 
-Groton, CT | LinkedIn to be updated |
+Groton, CT | ![LinkedIn](https://linkedin.nom/in/elviseugene/)|
 
 ## Hightlights
 * Computational scientist with an expertise in languagues, both machine understandable and the spoken word: BASIC, Java, C, C++, C#, Python, R, git, Github, Jupyter, Google Collaboratory, and mathematics and probability.
