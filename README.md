@@ -1,9 +1,7 @@
-![EAEhello](https://www.canva.com/design/DAGFUkLH06A/dxxBD0ytO-QYXaI-O39jfg/view?utm_content=DAGFUkLH06A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
-
 
 # Elvis Abraham Eugene
 
-Groton, CT | ![LinkedIn](www.linkedin.com/in/elviseugene/) 
+Groton, CT
 
 ## Hightlights
 * Computational scientist with an expertise in languagues, both machine understandable and the spoken word: BASIC, Java, C, C++, C#, Python, R, git, Github, Jupyter, Google Collaboratory, and mathematics and probability.
