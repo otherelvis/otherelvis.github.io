@@ -3,7 +3,7 @@
 
 [Link to another page](./another-page.html).
 
-[Link to resume](./resume.md).
+[Link to resume](./2024-05-15_resume.md).
 
 
 
