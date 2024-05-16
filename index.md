@@ -7,7 +7,7 @@ soimte text
 
 
 
-![Thumbnail of Tactile](thumbnail.png)
+![Thumbnail of Tactile](thumbnail2.png)
 
 ![Splash screen](eae-1.png)
 
