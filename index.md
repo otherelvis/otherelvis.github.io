@@ -3,7 +3,7 @@
 
 [Link to another page](./another-page.html).
 
-[Link to resume](/resume).
+[Link to resume](resume).
 
 
 
