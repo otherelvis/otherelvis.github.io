@@ -1,8 +1,7 @@
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-![Octocat](https://www.canva.com/design/DAGFUkLH06A/dxxBD0ytO-QYXaI-O39jfg/view?utm_content=DAGFUkLH06A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+![Splash](assets/images/eae-1.png)
 
-soimte text
+[Link to resume](./2024-05-15_resume.md)
 
-
-![Thumbnail of Tactile](thumbnail.png)
-
+[Link to CV](./2024-05-15_resume.md)
