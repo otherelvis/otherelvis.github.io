@@ -4,6 +4,8 @@
 
 [Link to resume](./2024-05-15_resume.md)
 
+![Bye](assets/images/eae-6.png)
+
 [Link to CV](./2024-05-17_cv.md)
 
-![Bye](assets/images/eae-6.png)
+![Hello](assets/images/eae-7.png)
