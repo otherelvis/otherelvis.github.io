@@ -4,11 +4,11 @@
 
 ![Bye](assets/images/eae-6.png)
 
-# [Here's my resume](./2024-05-15_resume.md)
+# [Here's my resume](./2024-05-15-resume.md)
 
 ![Hello](assets/images/eae-7.png)
 
-# [and my CV.](./2024-05-17_cv.md)
+# [and my CV.](./2024-05-17-cv.md)
 
 ![Byebye](assets/images/eae-4.png)
 
@@ -16,4 +16,3 @@
 
 
 ![thankyouforcoming](assets/images/thank-you-sunset1.png)
-
