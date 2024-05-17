@@ -1,3 +1,7 @@
+---
+permalink: /indext.html
+---
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ![Splash](assets/images/eae-1.png)
