@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+# google-ID: ''
 
 menu:
 #- {name: 'Interesting Facts',  url: 'facts'}
@@ -13,6 +13,7 @@ menu:
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
+- {name: 'Sample Posts',       url: 'sample-posts'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
