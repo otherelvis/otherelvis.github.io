@@ -8,8 +8,8 @@ google-ID: ''
 
 menu:
 #- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Resume', url: 'resume}
-- {name: 'CV',       url: 'CV'}
+- {name: 'Resume', url: 'EAE_resume.html'}
+- {name: 'CV',       url: 'EAE_cv.html'}
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
