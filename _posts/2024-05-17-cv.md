@@ -3,6 +3,7 @@ layout: default
 permalink: /EAE_cv.html
 tags: [cv]
 image: assets/images/eae-6.png
+title: CV
 ---
 # Elvis A. Eugene
 
