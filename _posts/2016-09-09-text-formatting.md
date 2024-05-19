@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Interests"
+author: "Elvis AE"
 categories: sample
 tags: [interests,sample]
 image: arctic-1.jpg
