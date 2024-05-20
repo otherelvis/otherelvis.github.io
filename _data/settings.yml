@@ -9,9 +9,9 @@ disqus:
 menu:
 #- {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Resume', url: 'resume'}
-- {name: 'CV',       url: 'EAE_cv.html'}
-#- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
+- {name: 'CV',       url: 'CV'}
+- {name: 'Documentation',      url: 'documentation'}
+#- {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 - {name: 'Interests',       url: 'interests'}
 
