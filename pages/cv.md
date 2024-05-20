@@ -1,13 +1,14 @@
 ---
-layout: default
-permalink: /EAE_cv.html
-tags: [cv]
-image: assets/images/eae-6.png
-title: CV
+layout: post
+title: "Elvis A. Eugene's CV"
+categories: resume
+tags: [resume,docs]
+image: eae-6.png
+permalink: /CV
 ---
-# Elvis A. Eugene
 
-Groton, CT | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en)
+
+Groton, CT | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-CV.pdf)
 
 ## Education
 
