@@ -2,11 +2,10 @@
 layout: post
 title: "Elvis A. Eugene's CV"
 categories: CV
-tags: [resume,docs]
+tags: [CV,docs]
 image: eae-6.png
 permalink: /CV
 ---
-
 
 Groton, CT | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-CV.pdf)
 
