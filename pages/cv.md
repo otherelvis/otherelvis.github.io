@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elvis A. Eugene's CV"
-categories: resume
+categories: CV
 tags: [resume,docs]
 image: eae-6.png
 permalink: /CV
