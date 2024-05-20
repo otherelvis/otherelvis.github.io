@@ -10,11 +10,11 @@ permalink: /index.html
 
 ![Bye](assets/img/eae-6.png)
 
-# [Here's my resume](./_posts/2024-05-15-resume.md)
+# [Here's my resume](pages/resume)
 
 ![Hello](assets/img/eae-7.png)
 
-# [and my CV.](./_posts/2024-05-17-cv.md)
+# [and my CV.](./pages/cv)
 
 ![Byebye](assets/img/eae-4.png)
 
