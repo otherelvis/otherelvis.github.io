@@ -3,6 +3,7 @@ title: Home
 permalink: /index.html
 ---
 
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ![Splash](assets/img/eae-1.png)
