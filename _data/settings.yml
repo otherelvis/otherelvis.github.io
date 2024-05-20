@@ -8,12 +8,12 @@ disqus:
 
 menu:
 #- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Resume', url: 'EAE_resume.html'}
+- {name: 'Resume', url: 'resume'}
 - {name: 'CV',       url: 'EAE_cv.html'}
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Interests',       url: 'interests'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

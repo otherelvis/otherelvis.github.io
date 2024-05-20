@@ -1,12 +1,13 @@
 ---
-layout: default
-permalink: /EAE_resume.html
-tags: [resume]
-image: assets/images/eae-7.png
+layout: post
+title: "Elvis A. Eugene's Resume"
+categories: resume
+tags: [resume,docs]
+image: eae-7.png
+permalink: /resume
 ---
-# Elvis A. Eugene
 
-Groton, CT | [LinkedIn](www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en)
+Groton, CT | [LinkedIn](www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](eae_resume.pdf)
 
 ## Hightlights
 * Computational scientist with an expertise in languagues, both machine understandable and the spoken word: BASIC, Java, C, C++, C#, Python, R, git, Github, Jupyter, Google Collaboratory, and mathematics and probability.
@@ -85,5 +86,3 @@ Notre Dame, IN (August 2017 - May 2019)
 2018: President, Research Symposium Committe, CBEGSO 
 
 2017: Secretary, Research Symposium Committe, CBEGSO
-
-![thankyouforcoming](assets/images/thank-you-sunset1.png)
