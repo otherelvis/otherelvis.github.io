@@ -2,8 +2,8 @@
 layout: post
 title: "Interests"
 author: "Elvis AE"
-categories: Interests
-tags: [interests]
+categories: interests
+tags: [documentation,sample]
 image: assets/images/arctic-1.jpg
 ---
 
