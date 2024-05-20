@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interests
+title: Elvis' Interests
 category: interests
 permalink: /interests
 ---
