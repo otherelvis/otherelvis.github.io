@@ -5,6 +5,7 @@ categories: resume
 tags: [resume,docs]
 image: eae-7.png
 permalink: /resume
+date: 2024-05-20
 ---
 
 Groton, CT | [LinkedIn](www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-resume.pdf)
