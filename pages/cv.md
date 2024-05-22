@@ -5,6 +5,7 @@ categories: CV
 tags: [CV,docs]
 image: eae-6.png
 permalink: /CV
+date: 2024-05-20
 ---
 
 Groton, CT | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-CV.pdf)
