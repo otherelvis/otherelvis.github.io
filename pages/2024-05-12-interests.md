@@ -5,6 +5,7 @@ author: "Elvis AE"
 categories: interests
 tags: [docs]
 permalink: /interests
+date: 2024-05-12
 ---
 ![Interests](img/interests1.jpg)
 
