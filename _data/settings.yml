@@ -21,8 +21,8 @@ social:
 - {icon: 'facebook', link:   'https://www.facebook.com/elvis90'}
 - {icon: 'instagram', link:  'https://www.instagram.com/__otherelvis__/'}
 - {icon: 'envelope', link:   'mailto:elvis.ae@gmail.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
-- {icon: 'linkedin-in', link: 'rss-feed.xml'}
+#- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'linkedin-in', link: 'https://www.linkedin.com/in/elviseugene'}
 
 # Customize site text
 pagination:
