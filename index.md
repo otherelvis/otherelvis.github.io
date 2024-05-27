@@ -20,6 +20,6 @@ permalink: /index.html
 
 ## Find me on social media
 
-[GoogleScholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0003-2996-7031) | [Threads](https://www.threads.net/@pr0fpy0m0) 
+[Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0003-2996-7031) | [Threads](https://www.threads.net/@pr0fpy0m0) 
 
 ![thankyouforcoming](assets/img/thank-you-sunset1.png)
