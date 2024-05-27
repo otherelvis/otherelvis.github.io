@@ -7,7 +7,6 @@ disqus:
 google-ID: 'G-0HREPR42SV'
 
 menu:
-#- {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Resume', url: 'resume'}
 - {name: 'CV',       url: 'CV'}
 #- {name: 'Documentation',      url: 'documentation'}
