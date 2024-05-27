@@ -139,5 +139,6 @@ Elvis A. Eugene, William A. Philip, and Alexander W. Dowling. Optimizing Materia
 
 2017: Secretary, Research Symposium Committe, CBEGSO
 
+
 ![thankyouforcoming](pages/img/thank-you-sunset1.png)
 
