@@ -21,8 +21,9 @@ social:
 - {icon: 'instagram', link:  'https://www.instagram.com/__otherelvis__/'}
 - {icon: 'envelope', link:   'mailto:elvis.ae@gmail.com'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/elviseugene'}
-- {icon: 'orcid', link: 'https://orcid.org/0000-0003-2996-7031'}
 - {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'google-scholar', link: 'https://orcid.org/0000-0003-2996-7031'}
+
 
 
 # Customize site text
