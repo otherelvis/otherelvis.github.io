@@ -21,8 +21,8 @@ social:
 - {icon: 'facebook', link:   'https://www.facebook.com/elvis90'}
 - {icon: 'instagram', link:  'https://www.instagram.com/__otherelvis__/'}
 - {icon: 'envelope', link:   'mailto:elvis.ae@gmail.com'}
-z- {icon: 'linkedin', link: 'https://www.linkedin.com/in/elviseugene'}
-- {icon: 'github', link: 'https://github.com/otherelvis'}
+- {icon: 'linkedin', link:   'https://www.linkedin.com/in/elviseugene'}
+- {icon: 'github', link:     'https://github.com/otherelvis'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
 
