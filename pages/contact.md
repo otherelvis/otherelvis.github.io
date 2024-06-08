@@ -5,7 +5,7 @@ permalink: /contact
 ---
 ![GPs](img/GP.png)
 
-![EAEs_GP_animation](img/GP.png](https://www.canva.com/design/DAGHdhAK1pI/uRPxDO-_t7wVeEQz72hH3w/edit?utm_content=DAGHdhAK1pI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![EAEs_GP_animation](img/GP.png](https://www.canva.com/design/DAGHdhAK1pI/D5TiYZkfpBq5nleAPDDR9Q/watch?utm_content=DAGHdhAK1pI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Get in touch with me via email or on social media. Links below and throughout the website.
 
