@@ -13,7 +13,6 @@ Groton, CT | [LinkedIn](www.linkedin.com/in/elviseugene/) | [Google Scholar](htt
 ## Hightlights
 * Computational scientist with an expertise in languagues, both machine understandable and the spoken word: BASIC, Java, C, C++, C#, Python, R, git, Github, Jupyter, Google Collaboratory, and mathematics and probability.
 * Eclectic experience in industry and acdemic research.
-* I’m looking forward to running a team of my own.
 
 ## Education
 
