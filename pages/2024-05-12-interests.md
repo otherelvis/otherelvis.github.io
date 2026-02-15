@@ -15,7 +15,7 @@ As a classically trained chemical engineer and computational scientist, I am int
 
 ## Complex data visualization
 
-I enjoy visualizing and interpreting complex data. As an example, consider the following Jupyter Notebooks which contain a selection of data that I visualized for my paper titled [Learning and optimization under epistemic uncertainty with Bayesian hybrid models](https://www.sciencedirect.com/science/article/abs/pii/S0098135423003009)
+I enjoy visualizing and interpreting complex data. As an example, consider the following Jupyter Notebooks which contain a selection of data that I visualized for my paper titled [Learning and optimization under epistemic uncertainty with Bayesian hybrid models](https://www.sciencedirect.com/science/article/abs/pii/S0098135423003009).
 
 * [Epistemic vs aleatoric uncertainty using cannonball example](https://github.com/otherelvis/bayesian-hm/blob/main/cannonball_genExpt_Figs_only-v_job_talk.ipynb)
 * [Latin hypercube sampled experiments for model calibration](https://github.com/otherelvis/bayesian-hm/blob/main/cannonball_genExpt_Figs_only.ipynb)
