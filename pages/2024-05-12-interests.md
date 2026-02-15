@@ -19,6 +19,6 @@ I enjoy visualizing and interpreting complex data. As an example, consider the f
 
 * [Epistemic vs aleatoric uncertainty using cannonball example](https://github.com/otherelvis/bayesian-hm/blob/main/cannonball_genExpt_Figs_only-v_job_talk.ipynb)
 * [Latin hypercube sampled experiments for model calibration](https://github.com/otherelvis/bayesian-hm/blob/main/cannonball_genExpt_Figs_only.ipynb)
-* [Uncertainty based model exploration]([https://github.com/otherelvis/bayesian-hm/blob/main/cannonball_genExpt_Figs_only.ipynb](https://github.com/otherelvis/bayesian-hm/blob/main/prediction_uncertainty_analysis_v1_aiche21_presentation_figures.ipynb))
+* [Uncertainty based model exploration](https://github.com/otherelvis/bayesian-hm/blob/main/prediction_uncertainty_analysis_v1_aiche21_presentation_figures.ipynb)
 * [Error comparison across model architectures](https://github.com/otherelvis/bayesian-hm/blob/main/sequential_hybrid_data_analysis.ipynb)
 
