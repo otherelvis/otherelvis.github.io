@@ -26,7 +26,9 @@ Bengaluru, Karnataka | [LinkedIn](www.linkedin.com/in/elviseugene/) | [Google Sc
 ### Senior Scientist, Computational Process Design and Optimization
 #### Pfizer Worldwide Research, Development, and Medicine
 Groton, CT, USA (July 2022 - June 2025)
+
 _Drove computational initiatives for the process engineering of active pharmaceutical ingredient (API) synthesis across laboratory and manufacturing environments._
+
 * Leveraged data via dynamic models using first principles and machine learning to scale-up API synthesis from laboratory to manufacturing resulting in 20% faster timelines.
 * Defined advanced temperature control strategies based on data analytics with nonlinear and mixed integer programming to limit impurities below 1.5% during commercial manufacturing.
 * Commissioned a prototype continuous reactor utilising data driven insights for troubleshooting and risk aversion which enabled 30% faster deployment.
@@ -35,7 +37,9 @@ _Drove computational initiatives for the process engineering of active pharmaceu
 ### Research Assistant 
 #### Dowling Lab, University of Notre Dame
 Notre Dame, IN (July 2017 - May 2022)
+
 _Led four projects from concept to completion, delivering innovation in data-driven process engineering for the multiscale design of cutting-edge sustainable technologies._
+
 * Created a novel framework for data-driven decision-making under uncertainty using Bayesian statistical models which use machine learning to determine unknown process dynamics, reducing data requirements at least 50%.
 * Designed novel flowsheets and filter fabrication techniques by analysing data from 1000s of optimised designs to use membranes for lithium-ion battery recycling, accelerating workflows by 5x
 * Grew the group from four to 15+ members and mentored the team to win two grants and publish four articles.
@@ -44,7 +48,9 @@ _Led four projects from concept to completion, delivering innovation in data-dri
 ### Senior Process Engineer 
 #### Simon India Limited 
 New Delhi, India (September 2012 - May 2017)
+
 _Drove process engineering and optimisation for industrial projects as the Engineering, Procurement, and Construction (EPC) consultant for large-scale chemical plants, ensuring on-time delivery of process enhancement and revenue growth._
+
 * Designed (detailed engineering), supervised construction, and commissioned a 2000 metric ton per day sulphuric acid plant with heat recovery system and captive power plant, the first of its kind in India.
 * Collaborated with project management to increase project revenue by 17% through contract change-orders.
 * Ensured safety compliance as a member of the hazard and operability (HAZOP) studies team for three plants.
