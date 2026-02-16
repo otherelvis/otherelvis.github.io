@@ -1,22 +1,15 @@
 ---
-title: Home
 permalink: /index.html
 ---
 
 ![Splash](assets/img/eae-1.png)
 
-![Bye](assets/img/eae-6.png)
+I am a computational scientist and chemical engineer who enjoys leveraging data to make better decisions and accelerate workflows through automation. I am adept at Python having worked with it for the past 9 years. Prior to that I worked as a Process Engineer designing and building chemical plants. In my ideal job, I will use AI/ML to accelarate plant design, construction, and commissioning, as this combines all the experience I have gained in my career.
 
-# [Here's my resume](pages/resume.md)
+Here's my [resume](pages/resume.md) and my [CV.](pages/cv.md)
 
-![Hello](assets/img/eae-7.png)
+## You can find my research outcomes here:
 
-# [and my CV.](pages/cv.md)
-
-![Byebye](assets/img/eae-4.png)
-
-## Find me on social media
-
-[Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0003-2996-7031) | [Threads](https://www.threads.net/@pr0fpy0m0) 
+[Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0003-2996-7031) | 
 
 ![thankyouforcoming](assets/img/thank-you-sunset1.png)
