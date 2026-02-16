@@ -68,6 +68,13 @@ M.S., Chemical Engineering
 ### Bengaluru, Karnatak, India
 B. E., Chemical Engineering
 
+## Peer reviewed publications
+**Elvis A. Eugene**, Kyla Jones, Xian Gao, Jialu Wang, and Alexander W. Dowling. Learning and optimization under epistemic uncertainty with Bayesian hybrid models. Computers and Chemical Engineering, 179, 108430 (2023). [https://doi.org/10.1016/j.compchemeng.2023.108430](https://doi.org/10.1016/j.compchemeng.2023.108430)
+
+Noah P. Wamble, **Elvis A. Eugene**, William A. Phillip, and Alexander W. Dowling. Optimal Diafiltration Membrane Cascades Enable Green Recycling of Spent Lithium-Ion Batteries. ACS Sustainable Chemistry & Engineering, 10, 37, 12207-12225 (2022). [https://doi.org/10.1021/acssuschemeng.2c02862](https://doi.org/10.1021/acssuschemeng.2c02862)
+
+**Elvis A. Eugene**, William A. Philip, and Alexander W. Dowling. Data Science-Enabled Molecular-to-Systems Engineering for Sustainable Water Treatment. Current Opinion in Chemical Engineering, 26, 122-130 (2019). [https://doi.org/10.1016/j.coche.2019.10.002](https://doi.org/10.1016/j.coche.2019.10.002)
+
 ## Selected Honors and Awards
 2021: Finalist, American Institute of Chemical Engineers (AIChE) Computing and Systems Technology Division (CAST) Directors’ Student Presentation Awards
 
