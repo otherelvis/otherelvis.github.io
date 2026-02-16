@@ -8,7 +8,7 @@ permalink: /CV
 date: 2026-02-16
 ---
 
-Wellington, New Zealand | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-CV.pdf)
+Wellington, New Zealand | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/Elvis_Eugene_CV.pdf)
 
 ## Education
 
