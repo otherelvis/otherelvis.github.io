@@ -5,10 +5,10 @@ categories: CV
 tags: [CV,docs]
 image: eae-6.png
 permalink: /CV
-date: 2024-05-20
+date: 2026-02-16
 ---
 
-Groton, CT | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-CV.pdf)
+Wellington, New Zealand | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-CV.pdf)
 
 ## Education
 
@@ -26,21 +26,20 @@ B. E., Chemical Engineering (2012)
 
 ## Research Experience
 ### Senior Scientist, Computational Process Design and Optimization
-#### Pfizer Worldwide Research, Development, and Medicine
-Groton, CT (July 2022 - current)
-*  Developing dynamic models using first-principles and sparse machine learning for active pharmaceutical ingredient synthesis across the laboratory to manufacturing scales.
-*  Investigating artificial intelligence for automated and self-optimizing experimentation.
-*  Augmenting decision-making for economic resource management using optimal experiment design.
-*  Key research tools include Bayesian optimization, gray-box hybrid modeling, machine learning, probabilistic programming, nonlinear programming, and model-based design of experiments.
+#### Pfizer Research and Development
+Groton, CT (July 2022 - June 2025)
+* Developed dynamic models using first-principles and machine learning to scale-up active pharmaceutical ingredient synthesis from laboratory to manufacturing scales resulting in 20% faster timelines.
+* Defined advanced temperature control strategies using nonlinear and mixed integer programming to limit impurities below 1.5% during commercial manufacturing.
+* Commissioned a prototype continuous reactor utilising data analytics for troubleshooting and risk aversion which enabled 30% faster deployment.
+* Accelerated process design using innovations in data science via Bayesian optimization, gray-box hybrid modeling, machine learning, and mathematical programming.
 
 ### Graduate Research Assistant 
 #### Dowling Lab, University of Notre Dame
 Notre Dame, IN (July 2017 - May 2022)
-* Created a framework for data-driven decision-making under model-form uncertainty based on gray-box Bayesian hybrid models (BHM).
-* Demonstrated that novel polymer membranes are promising for the sustainable recovery of lithium using predictive mathematical models for structure property relationships, superstructure optimization for system design, and nonlinear parameter estimation to define transport phenomena.
+* Created a novel framework for decision-making under model-form uncertainty using Bayesian hybrid models (BHM) which uses machine learning to determine unknown process dynamics, reducing data requirements more than 50%.
+* Designed novel flowsheets and filter fabrication techniques using superstructure optimisation and data analytics to utilize membranes for green energy applications such as lithium-ion battery recycling, accelerating workflows by 5x.
+* Grew the group from four to 15+ members and mentored the team to win two grants and publish four articles.
 * Proposed integrated vision of data science to revolutionize molecular-to-systems engineering.
-* Mentored 3 graduate students and 1 undergraduate researcher resulting in 4 journal articles and 2 successful
-fellowship grants.
 
 ## Teaching Experience
 ### Teaching Assitant
@@ -54,17 +53,20 @@ Notre Dame, IN (August 2017 - May 2019)
 ### Senior Process Engineer 
 #### Simon India Limited 
 New Delhi, India (September 2012 - May 2017)
-* Designed (detailed engineering), supervised construction, and commissioned a 2000 metric ton per day sulphuric acid plant with heat recovery system, the first of its kind, at Paradeep Phosphates Ltd., Odisha, India.
-* Increased project revenue by 17% by compiling technical documentation for change-order negotiations.
-* Negotiated technical issues with client and licensor and served as the junior technical liaison for the caprolactam distillation project at Gujarat State Fertilizer Corporation, Gujarat, India.
-* Demonstrated technical mastery and attention to detail as a part of several teams responsible for hazard and operability (HAZOP) studies of the plant as well as factory and site acceptance tests of critical plant subsystems.
+* Designed (detailed engineering), supervised construction, and commissioned a 2000 metric ton per day sulphuric acid plant with heat recovery system and captive power plant, the first of its kind in India.
+* Collaborated with project management to increase project revenue by 17% through contract change-orders.
+* Ensured safety compliance as a member of the hazard and operability (HAZOP) studies team for three plants.
+* Certified quality compliance for subcontracted units like turbine driven pumps and distributed control systems (DCS).
+* Delivered design documents such as P&IDs, PFDs, equipment and instrumentation specifications, and control logics within stipulated deadlines.
+* Calculated line hydraulics, equipment sizes, and mass and energy balances for the main plant and offsite utilities.
+* Partnered with customers through technical discussions and site visits to build long-term relationships which lead to winning additional contracts.
 
 ## Peer reviewed publications
 **Elvis A. Eugene**, Kyla Jones, Xian Gao, Jialu Wang, and Alexander W. Dowling. Learning and optimization under epistemic uncertainty with Bayesian hybrid models. Computers and Chemical Engineering, 179, 108430 (2023). [https://doi.org/10.1016/j.compchemeng.2023.108430](https://doi.org/10.1016/j.compchemeng.2023.108430)
 
 Jialu Wang, **Elvis A. Eugene**, and Alexander W. Dowling. Scalable Stochastic Programming with Bayesian Hybrid Models. Computer Aided Chemical Engineering, 49, 1309-1314 (2022). 10.1016/B978-0-323-85159-6.50218-9. [https://doi.org/10.1016/B978-0-323-85159-6.50218-9](https://doi.org/10.1016/B978-0-323-85159-6.50218-9)
 
-*Noah P. Wamble*, ***Elvis A. Eugene** (eqaul contributions)*, William A. Phillip, and Alexander W. Dowling. Optimal Diafiltration Membrane Cascades Enable Green Recycling of Spent Lithium-Ion Batteries. ACS Sustainable Chemistry & Engineering, 10, 37, 12207-12225 (2022). [https://doi.org/10.1021/acssuschemeng.2c02862](https://doi.org/10.1021/acssuschemeng.2c02862)
+*Noah P. Wamble*, ***Elvis A. Eugene**, William A. Phillip, and Alexander W. Dowling. Optimal Diafiltration Membrane Cascades Enable Green Recycling of Spent Lithium-Ion Batteries. ACS Sustainable Chemistry & Engineering, 10, 37, 12207-12225 (2022). [https://doi.org/10.1021/acssuschemeng.2c02862](https://doi.org/10.1021/acssuschemeng.2c02862)
 
 Joanthan Ouiment, Xinhong Liu, David J. Brown, **Elvis A. Eugene**, Tylar Popps, Zachary W. Muetzel, Alexander W. Dowling, and William A. Phillip. DATA: Diafiltration Apparatus for high-Throughput Analysis. Journal of Membrane Science, 641, 119743 (2022). [https://doi.org/10.1016/j.memsci.2021.119743](https://doi.org/10.1016/j.memsci.2021.119743)
 
@@ -129,6 +131,14 @@ Elvis A. Eugene, William A. Philip, and Alexander W. Dowling. Optimizing Materia
 2019: Notre Dame Graduate Student Government Conference Presentation Grant
 
 # Service, Leadership, and Outreach
+2024: Session Chair, Modeling & Data analytics, Pfizer Chemistry Connect
+
+2023: Volunteer, Rise Against Hunger, Groton, CT 
+
+2023: Session Chair, Modeling & Data analytics, Pfizer Chemistry Connect
+
+2022: Volunteer, Rise Against Hunger, Groton, CT 
+
 2021: Tutor, Robinson Community Learning Center 
 
 2020: Session Chair, Decision-making for Industrial Process Systems, AIChE Spring Meeting 
