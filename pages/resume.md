@@ -8,7 +8,7 @@ permalink: /resume
 date: 2026-02-16
 ---
 
-Bengaluru, Karnataka | [LinkedIn](www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/EAE-resume.pdf)
+Bengaluru, Karnataka | [LinkedIn](www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/Elvis_Eugene_Resume.pdf)
 
 ## Chemical Engineer: Advanced Data Analytics, Process Optimisation, and Detailed Engineering Design
 * 13 years’ experience as a chemical engineer and well versed in advanced data analytics via machine learning, process modelling, simulations, mathematical optimisation, and statistical inference.
