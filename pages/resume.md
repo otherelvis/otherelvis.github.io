@@ -95,6 +95,14 @@ Noah P. Wamble, **Elvis A. Eugene**, William A. Phillip, and Alexander W. Dowlin
 2020: The Patrick and Jana Eiler’s Graduate Student Fellowship for Energy Related Research
 
 ## Leadership and outreach
+2024: Session Chair, Modeling & Data analytics, Pfizer Chemistry Connect
+
+2023: Volunteer, Rise Against Hunger, Groton, CT 
+
+2023: Session Chair, Modeling & Data analytics, Pfizer Chemistry Connect
+
+2022: Volunteer, Rise Against Hunger, Groton, CT 
+
 2021: Tutor, Robinson Community Learning Center 
 
 2020: Session Chair, Decision-making for Industrial Process Systems, AIChE Spring Meeting 
