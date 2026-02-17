@@ -10,6 +10,8 @@ Here's my [resume](pages/resume.md) and my [CV.](pages/cv.md)
 
 ## Research areas:
 
+![Data-driven-Process-Engineering](assets/img/multiscale-abstract.png)
+
 In my research, I dove into data-driven methods to accelerate process design, development, and engineering. I leveraged techniques in mathematical modeling, nonlinear optimization, nonlinear parameter estimation, machine learning, and Bayesian inference in my work. My publications/research profile can be viewed on my CV, Google Scholar, or ORCID.
 
 [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0003-2996-7031) | 
