@@ -20,7 +20,7 @@ I enjoy visualizing and interpreting complex data. As an example, consider the f
 * [Uncertainty based model exploration](https://github.com/otherelvis/bayesian-hm/blob/main/prediction_uncertainty_analysis_v1_aiche21_presentation_figures.ipynb)
 * [Error comparison across model architectures](https://github.com/otherelvis/bayesian-hm/blob/main/sequential_hybrid_data_analysis.ipynb)
 
-Here are some more Jupyter notebooks containining visualizations of the models from my paper on adsorptive separations titled [Material Property Targets to Enable Adsorptive Water Treatment and Resource Recovery Systems](https://pubs.acs.org/doi/10.1021/acsestengg.0c00046)
+Here are some more Jupyter notebooks containining visualizations of the models from my paper on adsorptive separations titled [Material Property Targets to Enable Adsorptive Water Treatment and Resource Recovery Systems](https://pubs.acs.org/doi/10.1021/acsestengg.0c00046).
 
 * [Material property targets for Lead remediation for drinking water](https://github.com/elvis1090/multiscale-adsorption-targets/blob/master/Pb_remediation.ipynb)
 * [Material property targets for Lithium extraction from brine](https://github.com/elvis1090/multiscale-adsorption-targets/blob/master/Li_recovery.ipynb)
