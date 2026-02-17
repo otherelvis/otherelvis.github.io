@@ -10,6 +10,12 @@ date: 2026-02-16
 
 Wellington, New Zealand | [LinkedIn](https://www.linkedin.com/in/elviseugene/) | [Google Scholar](https://scholar.google.com/citations?user=RCvn620AAAAJ&hl=en) | [Download as pdf](pdfs/Elvis_Eugene_CV.pdf)
 
+## Professional Summary
+* Computational researcher studying chemical engineering systems using machine learning, mathematical optimisation, and statistical inference.
+* Proficient at physics-informed machine learning and Bayesian hybrid models.
+* Background in process engineering including detailed design, HAZOP, and plant commissioning.
+* Adept at blending academic research insights with industrial innovation to enhance value via scalable, impactful solutions.
+
 ## Education
 
 ## University of Notre Dame
