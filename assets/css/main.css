@@ -1810,11 +1810,12 @@
 					/* top: 0; */ /* Commented out by EAE to prevent top alignment of image */
 
 					/* Updated by EE to test image rendering */
-					height: 100%;
-					width: auto;
-					/* height: auto; 
-					width: 100%; */ 
-					margins: auto; 
+					/* height: 100%;
+					width: auto; */
+					height: auto; 
+					width: 100%;
+					margin-top: auto;
+					margin-bottom: auto;
 				}
 
 			.box.style1 .inner > :last-child {
