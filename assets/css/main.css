@@ -1801,7 +1801,10 @@
 				top: 0;
 				width: 50%;
 				height: 100%;
-				background: #152E33;
+
+				/* Updated by EAE to match image background
+				/* background: #152E33; */
+				background: #FFF;
 				overflow: hidden;
 			}
 
