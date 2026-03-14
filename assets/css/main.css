@@ -105,7 +105,7 @@
 .is-preload #header p { opacity: 0;}
 
 /* Fine tuning timings */
-#header h1, #header p { transition: opacity 2.9s ease, transform 1.1s ease; }
+#header h1, #header p { transition: opacity 2.9s linear, transform 1.1s ease; }
 #header h1 { transition-delay: 0.2s; }
 #header p  { transition-delay: 0.5s; }
 
