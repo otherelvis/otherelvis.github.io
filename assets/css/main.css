@@ -88,17 +88,6 @@
 /* Header animation */
 /* Added by EAE on Claud'e suggestion */
 
-/* Original timings and animation */
-/*
-.is-preload #header h1,
-
-.is-preload #header p { opacity: 0; transform: translateY(18px); }
-
-#header h1, #header p { transition: opacity 0.7s ease, transform 0.7s ease; }
-#header h1 { transition-delay: 0.1s; }
-#header p  { transition-delay: 0.35s; }
-*/
-
 .is-preload #header h1,
 .is-preload #header p { opacity: 0;}
 .is-preload #header footer { opacity: 0; transform: translateY(18px); }
@@ -108,7 +97,7 @@
 #header h1 { transition-delay: 0.2s; }
 #header p  { transition-delay: 0.2s; }
 
-#header footer { transition: opacity 3.7s linear, transform 3.7s linear}
+#header footer { transition: opacity 2.3s linear, transform 2.3s linear}
 #header footer { transition-delay: 0.5s }
 
 /* END: Header animation */
